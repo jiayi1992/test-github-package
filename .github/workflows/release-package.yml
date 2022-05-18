@@ -27,6 +27,7 @@ jobs:
         with:
           node-version: 12
           registry-url: https://npm.pkg.github.com/
+      - run: chmod u+x ./.github/scripts/publish-package.sh
       - run: ./.github/scripts/publish-package.sh
         shell: bash
         env:

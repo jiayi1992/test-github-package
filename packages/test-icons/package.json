@@ -1,8 +1,9 @@
 {
-  "name": "@dropbox/dig-components",
+  "name": "@jiayi1992/test-icons",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
+  "repository": "https://github.com/jiayi1992/test-github-package",
   "scripts": {
     "test": "exit 0"
   },
